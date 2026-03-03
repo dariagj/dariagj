@@ -4,7 +4,7 @@ I'm Daria, a Computer Science student in Maastricht University in the Netherland
 
 I am mostly working on university projects in different courses such as Object Oriented Programming, Databases, Intelligent Interaction, Computer Networks, etc. These projects are coded either in Java or in Python. When dealing with databases, I use mySQL.
 
-When design is needed for these project, I use Figma. 
+When design is needed for these projects, I use Figma. 
 
 --- 
 ### Tools & Tech
